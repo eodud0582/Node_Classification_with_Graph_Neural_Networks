@@ -66,12 +66,8 @@ After extensive testing, the APPNP (Approximate Personalized Propagation of Neur
 | --- | --- | --- | --- | --- | --- |
 | 64 | 0.507 | 7.75e-3 | 9.79e-7 | 72 | 0.049 |
 
-## Team Contributions
-
-- Member 1: Focused on APPNP, data visualization, and Optuna tuning.
-- Member 2: Worked on baseline GCNs, augmentation, and class balancing.
-- **Dae Young Kim**: Developed MultiviewGNN, implemented Pseudo-labeling and ensemble methods.
-- Member 3: Explored TensorFlow/Keras implementations and GraphSAGE.
+## My Contributions
+- Developed MultiviewGNN, implemented Pseudo-labeling and ensemble methods.
 
 ## Tech Stack
 - Language: Python
