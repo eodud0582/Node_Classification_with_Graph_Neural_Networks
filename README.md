@@ -4,7 +4,7 @@
 
 <img width=25% alt="image" src="https://github.com/user-attachments/assets/d4f26c1f-118a-4a87-9034-33aa8aeb5a9b" />
 
-Our team took 1st place in the competition.
+Our team took 1st place in the course competition.
 
 ---
 ## Objective
